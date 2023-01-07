@@ -4,5 +4,5 @@ Binds a keyboard shortcut (default: Meta-5) to post the current tab URL, includi
 
 ## Installation
 
-- Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), then save `vim-mode.js` inside it.
+- Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), then save `post-to-pinboard.js` inside it.
 - Restart Min.
